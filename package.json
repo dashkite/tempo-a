@@ -1,6 +1,6 @@
 {
   "name": "tempo-a",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test project for testing Tempo",
   "main": "index.js",
   "scripts": {
