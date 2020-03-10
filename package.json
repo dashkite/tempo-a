@@ -1,0 +1,25 @@
+{
+  "name": "tempo-a",
+  "version": "1.0.1",
+  "description": "Test project for testing Tempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "p9k test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashkite/tempo-a.git"
+  },
+  "keywords": [
+    "test",
+    "test",
+    "test",
+    "test"
+  ],
+  "author": "Vera Lee",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/dashkite/tempo-a/issues"
+  },
+  "homepage": "https://github.com/dashkite/tempo-a#readme"
+}
